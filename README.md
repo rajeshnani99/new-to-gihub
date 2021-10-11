@@ -1,1 +1,1 @@
-# new-to-gihub
+# new-to-gitub
